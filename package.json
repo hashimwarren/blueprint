@@ -27,7 +27,7 @@
     "use-debounce": "^7.0.1"
   },
   "devDependencies": {
-    "@gqty/cli": "^3.1.0",
+    "@gqty/cli": "^3.3.0",
     "@wordpress/base-styles": "^4.1.1",
     "@wordpress/block-library": "^7.0.0",
     "dotenv-flow": "^3.2.0",
